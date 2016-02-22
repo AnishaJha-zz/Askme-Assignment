@@ -56,7 +56,6 @@ for(id in ID_list)
     }
 }
 
-### CORPORATEIDENTIFICATIONNUMBER
 #Looping through the CORPORATEIDENTIFICATIONNUMBER list and setting filter on CORPORATEIDENTIFICATIONNUMBER
 
 TC_count=0
@@ -80,9 +79,7 @@ for(cid_number in CORPORATEIDENTIFICATIONNUMBER_list)
     }
 }
 
-#Negative Test
 
-any(abc=="Private")
 
 ### Offset TestCases Checking if offset API is working
 
