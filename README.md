@@ -15,7 +15,7 @@ Negative testing for the API's and Performance testing can also be done.
 2. The join request parameter example is not given, how to use it is not clear.
 
 #How to Run the Code.
-1. Code is written in R, you can install r from cran repository
+1. Code is written in R test_api.R, you can install r from cran repository
    Windows:
    https://cran.r-project.org/bin/windows/base/ 
    Mac:
